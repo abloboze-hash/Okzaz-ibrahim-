@@ -1,0 +1,9 @@
+{
+  "sessions": [
+    "main"
+  ],
+  "prefix": "!",
+  "printQRInTerminal": true,
+  "markOnlineOnConnect": false,
+  "reconnectDelayMs": 5000
+}
